@@ -1,0 +1,37 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/*
+    Created on : Dec 21, 2019, 11:06:16 PM
+    Author     : admin
+*/
+
+#particles-js {
+    height: 100%;
+    width: 100%;
+    position:  fixed;
+    background-position: center;
+    /*background: #303030*/
+    background-color: #d1c7c7;
+
+}
+#particles-js2 {
+    height: 100%;
+    width: 100%;
+    position:  fixed;
+    background-position: center;
+    /*background: #303030*/
+    background-color: #b1b1b1;
+
+}
+#particles-js3 {
+    height: 100%;
+    width: 100%;
+    position:  fixed;
+    background-position: center;
+    /*background: #303030*/
+    background-color: #b1b1b1;
+
+}
